@@ -1,3 +1,3 @@
-# Akka Corp
+# Akka
 
-Akka Corporation provides technology that enables developers to easily build data-centric applications that bring the most demanding, globally distributed applications and streaming data pipelines to life. Companies worldwide turn to Akka to solve the challenges of real-time, distributed data in support of their most business-critical initiatives.
+Akka is a platform to build and run elastic, agile, and resilient applications. Industry titans and disruptors rely on Akka when responsiveness must be guaranteed. Use Akka to build transactional systems, AI inference, real-time data, edge and IoT, workflows, and globally distributed apps.
